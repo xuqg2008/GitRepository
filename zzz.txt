@@ -4,3 +4,5 @@
 Git reset --hard[索引]
 本地库的指针移动的同时重置暂存区，重置工作区
 xuqg2021提交zzz
+
+aaaaa
